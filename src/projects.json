@@ -1,0 +1,40 @@
+{
+    "projects": [
+        {
+            "name": "Guessing Game",
+            "url": "https://shirleydamiron.github.io/Guessing_Game/",
+            "description": "Made to test the potential of your guessing skills! Click start to enter a number. Once you've entered a number a prompt will let you know if you should guess higher or lower. If not, you have been informed that you have guessed the number. You may keep a score and do not have to restart. There are two levels. Standard or Expert. Depending on your confidence, give it a shot and challenge yourself!",
+            "github_repo": "https://github.com/ShirleyDamiron/Guessing_Game",
+            "image": "/images/guessing_game.png"
+        },
+        {
+            "name": "Comment Thread",
+            "url": "https://shirleydamiron.github.io/Comment_Thread/",
+            "description": "Start by entering a comment on the box and click submit. Your comment has been printed. You may Like the comment or Dislike. Also, reply to the comment by clicking the reply button! If you decide to delete your reply, simply click delete.",
+            "github_repo": "https://github.com/ShirleyDamiron/Comment_Thread",
+            "image": "/images/comments.png"
+
+        },
+        {
+            "name": "MySQL Challenge",
+            "url": "https://shirleydamiron.github.io/MySQL_Challenge/mysql.txt",
+            "description": "A challenge made to result in the queries that are shown. Starting by creating a DB and dropping the DB if exist. The following queries are written to make Keys and Columns followed by inserting Values. Following queries will give the result of what is being asked for.",
+            "github_repo": "https://github.com/ShirleyDamiron/MySQL_Challenge",
+            "image": "/logos/mysql_PNG9.png"
+        },
+        {
+            "name": "Tic Tac Toe",
+            "url": "https://shirleydamiron.github.io/Tic-Tac-Toe/",
+            "description": "A simple game for short entertainment. Followed by a tutorial, brought into attention. Click on a box to place your game letter. Then, let your opponent place theirs. Once there is a winner or a tie, you may click on start, again to restart the game!",
+            "github_repo": "https://github.com/ShirleyDamiron/Tic-Tac-Toe",
+            "image": "/images/tictac.jpeg"
+        },
+        {
+            "name": "Ecommerce",
+            "url": "https://shirleydamiron.github.io/eCommerce/",
+            "description": "An eCommerce Project developed as a Fashion Store of Plaid interest. Offering a Home, Products and Contact page with an amazing Back-end to Front-end connection! Using React, Node, Express and many more. ",
+            "github_repo": "https://github.com/ShirleyDamiron/eCommerce",
+            "image": "/images/ecommercePic.jpg"
+        }
+    ]
+}

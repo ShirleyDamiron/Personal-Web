@@ -1,0 +1,48 @@
+.nav {
+  background-color: rgb(0, 3, 5);
+}
+
+.nav__list--item--logo {
+  height: 80px;
+  width: 100px;
+  border-radius: 50px;
+}
+.nav{
+  display: flex;
+}
+
+
+.nav__list {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  width:100%;
+  list-style: none;
+}
+
+.nav__list--item {
+  float: center;
+  text-align: center;
+  padding: 34px 36px;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.nav__list--item :hover {
+  color: rgb(167, 161, 161);
+}
+
+.nav__list--item--link {
+  text-decoration: none;
+  color: rgb(185, 3, 140);
+  text-align: center;
+  padding: 34px 36px;
+  float: center;
+ 
+}
+
+.imgContainer{
+position: absolute;
+top: 11px;
+}
+

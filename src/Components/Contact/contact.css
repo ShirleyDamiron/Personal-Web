@@ -1,0 +1,20 @@
+.communication{
+    font-family: cursive;
+    font-style: italic;
+    color: pink;
+    text-align: center;
+    font-size: 70px;
+}
+
+.communicationContainer{
+    margin: 50px 0 50px 0;
+    align-content: center;
+    padding: 70px 90px;
+}
+
+li{
+list-style: none;
+text-align: center;
+padding: 20px;
+font-size: 30px;
+}
