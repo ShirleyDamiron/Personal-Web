@@ -7,9 +7,6 @@ import './nav.css';
 function Nav() {
     return (
         <nav className="nav">
-            <div className="imgContainer">
-              <img className="nav__list--item--logo" src="/images/avi.jpg" alt="Picture of Shirley" />
-              </div>
             <ul className="nav__list">
             <li className="nav__list--item">
               <NavLink className="nav__list--item--link" to="/">Home</NavLink>

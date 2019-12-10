@@ -8,33 +8,40 @@
             "image": "/images/guessing_game.png"
         },
         {
-            "name": "Comment Thread",
-            "url": "https://shirleydamiron.github.io/Comment_Thread/",
-            "description": "Start by entering a comment on the box and click submit. Your comment has been printed. You may Like the comment or Dislike. Also, reply to the comment by clicking the reply button! If you decide to delete your reply, simply click delete.",
-            "github_repo": "https://github.com/ShirleyDamiron/Comment_Thread",
-            "image": "/images/comments.png"
+            "name": "Progressive Web App",
+            "url": "https://ecommercepwa.herokuapp.com/",
+            "description": "An Ecommerce application with the ability to download on mobile smartphones. This app is certified as an mobile app by passing the PWA test certification. You are able to create an account 100% safe by using Bcrypt. Filter through what your needs and wants are in the products page. ",
+            "github_repo": "https://github.com/ShirleyDamiron/EcommercePWA",
+            "image": "/images/shirtLogo512.png"
 
         },
         {
+            "name": "Semantic-HTML",
+            "url": "https://github.com/ShirleyDamiron/semanticHTML/blob/master/index.html",
+            "description": "An example of what Semantic HTML really is. The difference between semantic and non-semantic html is between the tags and their meanings behind it's content. For example, the div tag does not describe any meaning behind it while an article tag does.",
+            "github_repo": "https://github.com/ShirleyDamiron/semanticHTML",
+            "image": "/images/semantic-html.png"
+        },
+        {
             "name": "MySQL Challenge",
-            "url": "https://shirleydamiron.github.io/MySQL_Challenge/mysql.txt",
+            "url": "https://github.com/ShirleyDamiron/E-commerce-Full-Project/blob/master/Design/ERD.pdf",
             "description": "A challenge made to result in the queries that are shown. Starting by creating a DB and dropping the DB if exist. The following queries are written to make Keys and Columns followed by inserting Values. Following queries will give the result of what is being asked for.",
             "github_repo": "https://github.com/ShirleyDamiron/MySQL_Challenge",
             "image": "/logos/mysql_PNG9.png"
         },
         {
-            "name": "Tic Tac Toe",
-            "url": "https://shirleydamiron.github.io/Tic-Tac-Toe/",
-            "description": "A simple game for short entertainment. Followed by a tutorial, brought into attention. Click on a box to place your game letter. Then, let your opponent place theirs. Once there is a winner or a tie, you may click on start, again to restart the game!",
-            "github_repo": "https://github.com/ShirleyDamiron/Tic-Tac-Toe",
-            "image": "/images/tictac.jpeg"
+            "name": "LocalMotion App",
+            "url": "https://github.com/ShirleyDamiron/LocalMotionProject",
+            "description": "LocalMotion is a website made to help mend economic mobility in Charlotte, NC. Containing a SignUp page for users, informative pages of what we offer and how can we help as well as a contact page for those who want to help further or simply get in touch. Designed to fix the problem of economic mobility and to be user friend as well easy to navigate.",
+            "github_repo": "https://github.com/ShirleyDamiron/LocalMotionProject",
+            "image": "/images/localMotion.png"
         },
         {
-            "name": "Ecommerce",
-            "url": "https://shirleydamiron.github.io/eCommerce/",
+            "name": "Ecommerce Website",
+            "url": "https://github.com/ShirleyDamiron/E-commerce-Full-Project/blob/master/API/Test/server.test.js",
             "description": "An eCommerce Project developed as a Fashion Store of Plaid interest. Offering a Home, Products and Contact page with an amazing Back-end to Front-end connection! Using React, Node, Express and many more. ",
             "github_repo": "https://github.com/ShirleyDamiron/eCommerce",
-            "image": "/images/ecommercePic.jpg"
+            "image": "/images/eComPic.png"
         }
     ]
 }
