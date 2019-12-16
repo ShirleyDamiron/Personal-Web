@@ -16,13 +16,6 @@
 
         },
         {
-            "name": "Semantic-HTML",
-            "url": "https://github.com/ShirleyDamiron/semanticHTML/blob/master/index.html",
-            "description": "An example of what Semantic HTML really is. The difference between semantic and non-semantic html is between the tags and their meanings behind it's content. For example, the div tag does not describe any meaning behind it while an article tag does.",
-            "github_repo": "https://github.com/ShirleyDamiron/semanticHTML",
-            "image": "/images/semantic-html.png"
-        },
-        {
             "name": "MySQL Challenge",
             "url": "https://github.com/ShirleyDamiron/E-commerce-Full-Project/blob/master/Design/ERD.pdf",
             "description": "A challenge made to result in the queries that are shown. Starting by creating a DB and dropping the DB if exist. The following queries are written to make Keys and Columns followed by inserting Values. Following queries will give the result of what is being asked for.",
